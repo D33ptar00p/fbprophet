@@ -1,3 +1,11 @@
-Cython
+setuptools
+cython
 numpy
+pandas
 matplotlib
+convertdate
+pystan
+lunarcalendar
+holidays
+tqdm
+fbprophet
